@@ -1,0 +1,6 @@
+MTP.c:32:6:MTP_Init	16	static
+MTP.c:51:6:MTP_Notify	16	static
+MTP.c:77:6:MTP_ReceiveProcess	24	static
+MTP.c:187:9:MTP_ReceiveData	16	static
+MTP.c:211:6:MTP_SendProcess	24	static
+MTP.c:297:9:MTP_SendData	24	static

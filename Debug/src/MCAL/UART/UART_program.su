@@ -1,0 +1,11 @@
+UART_program.c:17:6:UART_Init	4	static
+UART_program.c:55:6:UART_Enable	4	static
+UART_program.c:73:6:UART_Disable	4	static
+UART_program.c:91:6:UART_SendByte	16	static
+UART_program.c:97:6:UART_WriteToBuffer	16	static
+UART_program.c:102:4:UART_ReciveByte	4	static
+UART_program.c:108:4:UART_ReadBuffer	4	static
+UART_program.c:113:6:UART_SendData	16	static
+UART_program.c:122:6:UART_ReceiveData	16	static
+UART_program.c:131:6:UART_SetInterruptHandler	16	static
+UART_program.c:136:6:USART1_IRQHandler	16	static
